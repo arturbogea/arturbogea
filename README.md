@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Artur Bogéa
 
 - 👀 Estou interessado em uma vaga de dev Android
-- 🌱 Atualmente estou estudando desenvolvimento Android
+- 🖥️ 📱 Atualmente estou estudando desenvolvimento Android
 - 📫 Meu e-mail de contato é arturbogea@gmail.com
 
 <div>
