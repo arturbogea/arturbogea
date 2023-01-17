@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Artur Bogéa
 
-- 👀 Estou interessado em uma vaga de dev Android
-- 🖥️ 📱 Atualmente estou estudando desenvolvimento Android
+- 👀 Estou interessado em uma vaga de Engenheiro de dados Jr
+- 🖥️ 📱 Atualmente estou estudando Python e SQL voltado para Engenharia de dados
 - 📫 Meu e-mail de contato é arturbogea@gmail.com
 
 <div>
@@ -11,8 +11,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Artur-kt" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
-<img height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
+<img width= 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img width= 80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
 </div>
   
 ##
