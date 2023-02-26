@@ -1,18 +1,13 @@
 ## Olá! Eu sou a Artur Bogéa
 
-- 👀 Estou interessado em uma vaga de Engenheiro de dados Jr
-- 🖥️ 📱 Atualmente estou estudando Python e SQL voltado para Engenharia de dados
+- 👀 Estou interessado em uma vaga de Desenvolvedor Android Jr.
+- 🖥️ 📱 Atualmente estou estudando Kotlin.
 - 📫 Meu e-mail de contato é arturbogea@gmail.com
 
-<div>
-  <a href="https://github.com/arturbogea">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturbogea&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturbogea&layout=compact&langs_count=16&theme=dark"/>
-</div>
 
 <div style="display: inline_block"><br>
-<img width= 60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img width= 80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img width= 80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" />
+<img width= 80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 
 </div>
   
