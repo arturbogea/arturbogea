@@ -1,6 +1,9 @@
 ## Olá! Eu sou a Artur Bogéa
 
-- 👀 Estou interessado em uma vaga de Desenvolvedor Android Jr.
+- Sou estudante de Analise e desevolvimento de sistemas. Estou estudando desenvolvimento Android.
+- Tenho conhecimento básico em Kotlin, POO e Desenvolvimento Android.
+
+- Estou interessado em uma vaga de Desenvolvedor Android Jr.
 - 🖥️ 📱 Atualmente estou estudando Kotlin.
 - 📫 Meu e-mail de contato é arturbogea@gmail.com
 
