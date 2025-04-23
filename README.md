@@ -50,7 +50,7 @@
 
 ---
 
-💡 *"Quem caminha devagar, mas nunca para, sempre chega ao destino."*  
+💡 *“Toda grande caminhada começa com um simples passo”*  
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
