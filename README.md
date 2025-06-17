@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Artur Bogéa!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🐍 Desenvolvedor em formação com foco em **Python**  
+🐍 Desenvolvedor em formação com foco em **Javascript**  
 📱 Comecei com **Kotlin** para explorar o desenvolvimento mobile, mas agora estou direcionando meus estudos para usar Kotlin também no **back-end**
 
 🚀 Minha missão é aprender, criar e evoluir como desenvolvedor de software, sempre buscando aplicar o que estudo em projetos reais.  
@@ -10,7 +10,7 @@
 
 ### 🧰 Tecnologias e ferramentas
 
-- 💻 Python (em andamento com o curso **100 Days of Code: The Complete Python Pro Bootcamp** da Dra Angela Yu)  
+- 💻 Javascript (em andamento com o curso **Desenvolvedor Full Stack** da One Bit Code)  
 - 📱 Kotlin (noções básicas)
 - 🐧 Linux Mint como sistema principal de desenvolvimento
 - 📚 Git & GitHub (em aprendizado contínuo)
@@ -20,7 +20,7 @@
 
 ### 📈 Em aprendizado:
 
-- Python para Full-Stack e automação.
+- Javascript para Full-Stack.
 - Git e GitHub via terminal
 - Organização de repositórios no GitHub
 - Lógica de programação com foco em projetos práticos
