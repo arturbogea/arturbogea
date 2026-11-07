@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=3776AB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Artur+Bog%C3%A9a+%F0%9F%91%8B;Desenvolvedor+Python+em+forma%C3%A7%C3%A3o;Automa%C3%A7%C3%A3o+%2B+IA+para+resolver+problemas+reais" alt="Typing SVG" />
+<h1>Olá, eu sou o Artur Bogéa 👋</h1>
+
+<p><b>Desenvolvedor Python em formação</b> · Automação + IA para resolver problemas reais</p>
 
 <p>
   <a href="https://www.linkedin.com/in/artur-bogea/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
