@@ -59,15 +59,6 @@ artur = {
 
 ---
 
-### 📊 Estatísticas
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arturbogea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturbogea&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
-</div>
-
----
-
 <div align="center">
 
 💡 *"Toda grande caminhada começa com um simples passo."*
