@@ -1,50 +1,77 @@
-## 👋 Olá, eu sou o Artur Bogéa!
+<div align="center">
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🐍 Desenvolvedor em formação com foco em **Python**  
-📱 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=3776AB&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Artur+Bog%C3%A9a+%F0%9F%91%8B;Desenvolvedor+Python+em+forma%C3%A7%C3%A3o;Automa%C3%A7%C3%A3o+%2B+IA+para+resolver+problemas+reais" alt="Typing SVG" />
 
-🚀 Minha missão é aprender, criar e evoluir como desenvolvedor de software, sempre buscando aplicar o que estudo em projetos reais.  
+<p>
+  <a href="https://www.linkedin.com/in/artur-bogea/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:arturbogea@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+</div>
+
+---
+
+### 👨‍💻 Sobre mim
+
+Sou de **Curitiba (PR)** e estou em transição de carreira para a **Engenharia de Software**.
+Depois de mais de 10 anos em atendimento e suporte, percebi que o que eu mais gosto é **resolver problemas** — e hoje faço isso com código.
+
+- 🎓 Cursando **Engenharia de Software** (Gran Faculdade) · Tecnólogo em **Análise de Sistemas** (UniDomBosco)
+- 🐍 Foco em **Python**, back-end e **automações com IA**
+- ⚙️ Construindo bots de WhatsApp com **n8n** e **Evolution API**
+- 🌍 Objetivo: crescer como desenvolvedor e atuar em projetos internacionais
+
+---
+
+### 🚧 Projetos em construção
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| ⚖️ **Têmis** | CRM jurídico para escritório de advocacia: atendimento via WhatsApp, painel de processos e acompanhamento de andamentos | Python · n8n · IA |
+| 💬 **Automação de WhatsApp** | Bots de atendimento e agendamento para pequenos negócios (fotografia, estética, locação) | n8n · Evolution API · IA |
 
 ---
 
 ### 🧰 Tecnologias e ferramentas
 
-- 💻 Python
-- 🐧 Linux Mint como sistema principal de desenvolvimento
-- 📚 Git & GitHub (em aprendizado contínuo)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white" alt="Linux Mint"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
 
 ---
 
+### 📈 Estudando agora
 
-### 📈 Em aprendizado:
-
-- Python para Full-Stack e Automação
-- Git e GitHub via terminal
-- Organização de repositórios no GitHub
-- Lógica de programação com foco em projetos práticos
-
----
-
-### 🎯 Próximos passos
-
-- Criar um portfólio com projetos práticos  
-- Contribuir com repositórios open source  
+```python
+artur = {
+    "linguagem": "Python",
+    "foco": ["Back-end", "APIs com FastAPI", "Automação com IA"],
+    "ferramentas": ["n8n", "Git", "Linux"],
+    "proximo_passo": "Publicar meus projetos aqui e contribuir com open source",
+}
+```
 
 ---
 
-### 🌐 Vamos nos conectar!
+### 📊 Estatísticas
 
-📬 arturbogea@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil-aqui)  
-📂 Repositórios em construção aqui no GitHub – fique à vontade para acompanhar minha evolução!
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arturbogea&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturbogea&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+</div>
 
 ---
 
-💡 *“Toda grande caminhada começa com um simples passo”*  
+<div align="center">
 
+💡 *"Toda grande caminhada começa com um simples passo."*
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-usuario/)
- 
+![Visitantes](https://komarev.com/ghpvc/?username=arturbogea&color=3776AB&style=flat-square&label=Visitas)
+
+</div>
